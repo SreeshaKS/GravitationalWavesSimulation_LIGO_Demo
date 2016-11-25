@@ -4,9 +4,11 @@ using the LIGO Experiment.
 
 Team Members : 
 
-1. [Sreesha KS](https://github.com/SreeshaKS)
+1. [Sindhu BM](https://github.com/sindhub1995)
 
-2. [Sindhu BM](https://github.com/sindhub1995)
+2. [Sreesha KS](https://github.com/SreeshaKS)
+
+
 
 
 
