@@ -1,11 +1,12 @@
 # GravitationalWavesSimulation_LIGO_Demo
 This is an Opengl - C based project , which aims at demonstrating the discovery of graviational waves 
 using the LIGO Experiment.
+
 Team Members : 
 
-*[Sreesha KS](https://github.com/SreeshaKS)
+1. [Sreesha KS](https://github.com/SreeshaKS)
 
-*[Sindhu BM](https://github.com/sindhub1995)
+2. [Sindhu BM](https://github.com/sindhub1995)
 
 
 
